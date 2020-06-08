@@ -1,0 +1,1 @@
+node ipu.js "credentials.json"
